@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevmon1234
 - 👀 I’m interested in video games (Playstation, Nintendo, PC) - especially RPGs
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Azure DevOps
 - 💞️ I’m looking to collaborate on emulation, python, and LabVIEW projects
 - 📫 How to reach me?  TBD
 
