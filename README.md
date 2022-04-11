@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python and Azure DevOps
 - 💞️ I’m looking to collaborate on emulation, python, and LabVIEW projects
 - 📫 How to reach me?  TBD
+- More info to come
 
 <!---
 Kevmon1234/Kevmon1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
