@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kevmon1234
 - 👀 I’m interested in video games (Playstation, Nintendo, PC) - especially RPGs
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on emulation
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on emulation, python, and LabVIEW projects
+- 📫 How to reach me?  TBD
 
 <!---
 Kevmon1234/Kevmon1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
